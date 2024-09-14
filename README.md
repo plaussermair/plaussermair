@@ -2,13 +2,11 @@
 
 🖥️ I’m a Software Architect with a strong foundation in Computer Science and Business, currently working in IT Consulting.
 
-💡 I’m passionate about personal finance, economics, the outdoors, and sports.
+💡 I’m passionate about technology, personal finance, economics, the outdoors, and sports.
 
-📚 I’m currently diving deeper into cloud computing, AI technologies, and financial modeling.
+📚 I’m currently diving deeper into cloud computing, AI technologies, and developing applications.
 
 📫 How to reach me: phil.laussermair@gmail.com | https://www.linkedin.com/in/philip-laussermair/
-
-🌟 Fun fact: I enjoy applying data analytics to optimize my personal investment strategies!
 
 
 <!---
