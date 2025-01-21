@@ -6,7 +6,7 @@
 
 📚 I’m currently diving deeper into cloud computing, AI technologies, and developing applications.
 
-📫 How to reach me: phil.laussermair@gmail.com | https://www.linkedin.com/in/philip-laussermair/
+📫 How to reach me: phil.laussermair@gmail.com | https://www.linkedin.com/in/philip-laussermair/ | www.philiplaussermair.com
 
 
 <!---
