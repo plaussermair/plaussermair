@@ -1,10 +1,10 @@
 👋 Hi, I’m Phil
 
-🖥️ I’m a Software Architect with a strong foundation in Computer Science and Business, currently working in IT Consulting.
+🖥️ I’m a Software Architect with a strong foundation in Computer Science and Business, currently working in PreSales at Redis.
 
 💡 I’m passionate about technology, personal finance, economics, the outdoors, and sports.
 
-📚 I’m currently diving deeper into cloud computing, AI technologies, and developing applications.
+📚 I’m currently diving deeper into cloud computing, AI, and developing applications.
 
 📫 How to reach me: phil.laussermair@gmail.com | https://www.linkedin.com/in/philip-laussermair/ | www.philiplaussermair.com
 
