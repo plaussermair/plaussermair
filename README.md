@@ -1,6 +1,6 @@
 👋 Hi, I’m Phil
 
-🖥️ I’m a Software Architect with a strong foundation in Computer Science and Business, currently working in PreSales at Redis.
+🖥️ I’m a Software Architect with a strong foundation in Computer Science and Business, currently working in PreSales at Redis. Check out my work GitHub - https://github.com/redis-phil
 
 💡 I’m passionate about technology, personal finance, economics, the outdoors, and sports.
 
